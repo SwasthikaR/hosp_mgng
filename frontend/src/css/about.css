@@ -1,0 +1,11 @@
+/* about.css */
+
+#body {
+    background: url("../images/abtBg.png") no-repeat center/cover;
+    position: relative; 
+    height: 450px;
+    width: 1169px;
+    z-index: 1;
+    margin-top: 100px;
+    display: flex;
+}

@@ -1,0 +1,32 @@
+#logBody {
+    background: url("../images/login_result.png") no-repeat center/cover;
+    position: relative;
+    height: 650px;
+    width: 1169px;
+    z-index: 1;
+    margin-top: 120px;
+    margin-left: -40px;
+
+}
+
+#clr {
+    background-color: rgb(48, 100, 231, 0.4);
+    position: absolute;
+    height: 700px;
+    width: 1050px;
+    z-index: 2;
+    margin-top: -750px;
+    margin-left: 20px;
+}
+
+.inp {
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-top: 30px
+}
+
+.inp:hover{
+    border-color: rgb(48, 100, 231);
+}

@@ -1,0 +1,8 @@
+#body {
+    background: url("../images/footer.png") no-repeat center/cover;
+    position: relative;
+    width: 1519px;
+    z-index: 1;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}

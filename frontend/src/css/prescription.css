@@ -1,0 +1,52 @@
+.presbk{
+    background-color: #c8dfef;
+    width: 100%;
+    height: 728px;
+    display: flex;
+    padding-left: 110px;
+    padding-top: 70px;
+}
+
+.presleft{
+    background-color: white;
+    width: 45%;
+    height: 600px;
+    margin-right: 5px;
+}
+
+.preshead{
+    display: flex;
+    justify-content: space-between;
+}
+
+.presp{
+    font-family: initial;
+    color: #1e0b9b ;
+    font-size: 34px;
+    margin-top: 60px;
+    font-weight: bold;
+}
+
+.autofill{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.presryt{
+    background-color: white;
+    width: 45%;
+    height: 600px;
+    margin-left: 5px;
+}
+
+.prestest{
+    padding: 30px;
+}
+
+.presbot{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}

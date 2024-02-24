@@ -1,0 +1,92 @@
+.dashhead{
+    display: flex;
+    padding: 10px;
+}
+
+.dashheadcontent{
+    display: flex;
+    margin-left: 1020px;
+}
+.leavepopup{
+    display: inline;
+    margin-right: 20px;
+}
+
+.dashbody{
+    display: grid;
+    grid-template-columns: 15% 85%;
+}
+
+.dashbodyleft{
+    padding: 20px;
+    height: 662px;
+}
+
+.dashbodyleft a{
+    text-decoration: none;
+}
+
+.dashbodyryt{
+    background-color: rgba(233, 242, 249, 0.5);
+    box-shadow: inset -0px -0px 0px rgba(0, 0, 0, 0.2);
+}
+
+.dashbox{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    display: flex;
+    width: 500px;
+    margin-left: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.dashryt2{
+    display: grid;
+    grid-template-columns: 60% 40%;
+
+}
+
+.dashgraph{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.dashdoclist{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.dashpatlist{
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.headbutsplit{
+    display: flex;
+    justify-content: space-between;
+}
