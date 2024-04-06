@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Main from './components/main';
 import Login from './components/login';
 import Bkapp from './components/bkapp';
@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     
-    <BrowserRouter>
+    <HashRouter>
       
       <Routes>
         <Route path="/" element={<Main/>}></Route>
@@ -28,7 +28,7 @@ function App() {
         <Route path='/editprof' element={<Editprof />}></Route>
       </Routes>
 
-      </BrowserRouter>
+      </HashRouter>
 
     </>
   );
