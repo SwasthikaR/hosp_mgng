@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/hosp_mgng/static/css/main.70204dbd.css",
+    "main.js": "/hosp_mgng/static/js/main.fe657161.js",
+    "static/js/642.7dfac17b.chunk.js": "/hosp_mgng/static/js/642.7dfac17b.chunk.js",
+    "static/js/787.c922dae8.chunk.js": "/hosp_mgng/static/js/787.c922dae8.chunk.js",
+    "static/media/smilyy.png": "/hosp_mgng/static/media/smilyy.ecc2e15a35ba8a7eb67a.png",
+    "static/media/primeicons.svg": "/hosp_mgng/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/hosp_mgng/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/hosp_mgng/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/login_result.png": "/hosp_mgng/static/media/login_result.76b50e21d82cd3bee9bc.png",
+    "static/media/twoDoc.png": "/hosp_mgng/static/media/twoDoc.8662cf666b88b1d09ede.png",
+    "static/media/bkimg.jpg": "/hosp_mgng/static/media/bkimg.f09c3621086abd6d9330.jpg",
+    "static/media/primeicons.eot": "/hosp_mgng/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/hosp_mgng/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/hosp_mgng/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/hosp_mgng/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/bg.png": "/hosp_mgng/static/media/bg.169b29a3519b6d56f09f.png",
+    "static/media/footer.png": "/hosp_mgng/static/media/footer.75a243884112106b79f7.png",
+    "static/media/rblue.webp": "/hosp_mgng/static/media/rblue.9f8e2b02eb222562dbb3.webp",
+    "index.html": "/hosp_mgng/index.html",
+    "main.70204dbd.css.map": "/hosp_mgng/static/css/main.70204dbd.css.map",
+    "main.fe657161.js.map": "/hosp_mgng/static/js/main.fe657161.js.map",
+    "642.7dfac17b.chunk.js.map": "/hosp_mgng/static/js/642.7dfac17b.chunk.js.map",
+    "787.c922dae8.chunk.js.map": "/hosp_mgng/static/js/787.c922dae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70204dbd.css",
+    "static/js/main.fe657161.js"
+  ]
+}
